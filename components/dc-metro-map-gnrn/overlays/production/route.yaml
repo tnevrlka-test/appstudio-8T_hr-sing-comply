@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: dc-metro-map-gnrn
     app.kubernetes.io/part-of: appstudio
-  name: dc-metro-map-gnrnztmi
+  name: dc-metro-map-gnrngb3c
 spec:
   port:
     targetPort: 8081
